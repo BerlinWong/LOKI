@@ -15,7 +15,7 @@ PATH\LOKI
 │  .gitignore
 │  LICENSE
 │  README.md
-│  
+│
 ├─.idea
 │  │  .gitignore
 │  │  deployment.xml
@@ -74,16 +74,14 @@ PATH\LOKI
 │  │      │      test.py
 │  │      │      train_lstmnetwork.py
 │  │      │
-│  │      ├─v2.0
-│  │      │  │  ls.png
-│  │      │  │  lstmnetwork.py
-│  │      │  │  mydataloader.py
-│  │      │  │  test.ipynb
-│  │      │  │  test.py
-│  │      │  │  train_lstmnetwork.py
-│  │      │  │
-│  │      │  └─__pycache__
-│  │      └─__pycache__
+│  │      └─v2.0
+│  │              ls.png
+│  │              lstmnetwork.py
+│  │              mydataloader.py
+│  │              test.ipynb
+│  │              test.py
+│  │              train_lstmnetwork.py
+│  │
 │  ├─Qbot
 │  ├─Random Forest
 │  ├─Strategy Library
